@@ -1,4 +1,7 @@
-# 🤖 UnisonAI
+<div align="center">
+
+<img src="https://github.com/UnisonAIInc/.github/blob/main/UnisonAI_Banner.jpg" alt="UnisonAI Banner" width="100%"/>
+</div>
 
 ![GitHub Followers](https://img.shields.io/github/followers/UnisonAIInc?label=Followers&style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/UnisonAIInc?label=Stars&style=flat-square)
